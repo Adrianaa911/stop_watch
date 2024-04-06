@@ -1,0 +1,38 @@
+* {
+    margin:0px;
+    padding: 0px;
+   box-sizing: border-box;
+   background-color: #cccc;
+}
+
+h2 {
+    font-size: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+#time {
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+button {
+    font-size: 20px;
+    padding:5px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    display: inline;
+    text-align: center;
+}
+
+button:hover {
+    background-color: White;
+    color: black;
+    font-size:30px;
+    cursor: pointer;
+}
